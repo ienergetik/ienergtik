@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ienergtik
-- 👀 I’m interested in c++, python and kotline
+- 👀 I’m interested in c++, python and kotlin
 - 🌱 I’m currently learning python
 - 📫 How to reach me [@krivomazov](https://t.me/krivomazov)
 
