@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ienergtik
+- 👋 Hi, I’m @ienergetik
 - 👀 I’m interested in c++, python and kotlin
 - 🌱 I’m currently learning python
 - 📫 How to reach me [@krivomazov](https://t.me/krivomazov)
